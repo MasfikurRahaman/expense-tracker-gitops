@@ -1,2 +1,1 @@
-# microservices-devops-gitops
-# expense-tracker
+# expense-tracker-gitops
